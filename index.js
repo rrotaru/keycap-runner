@@ -164,14 +164,14 @@
             AXE: { x: 951, y: 1 },
             CM: { x: 1003, y: 6 },
             DROW: { x: 1036, y: 6 },
-            CLOUD: { x: 86, y: 2 },
-            HORIZON: { x: 2, y: 54 },
-            MOON: { x: 484, y: 2 },
+            CLOUD: { x: 83, y: 1 },
+            HORIZON: { x: 1, y: 52 },
+            MOON: { x: 477, y: 1 },
             KEYCAP: { x: 95, y: 16 },
-            RESTART: { x: 2, y: 2 },
-            TEXT_SPRITE: { x: 655, y: 2 },
+            RESTART: { x: 1, y: 1 },
+            TEXT_SPRITE: { x: 647, y: 1 },
             TREX: { x: 132, y: 3 },
-            STAR: { x: 645, y: 2 }
+            STAR: { x: 638, y: 1 }
         },
         HDPI: {
             VIPER: { x: 1685, y: 21 },
