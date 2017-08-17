@@ -1464,7 +1464,7 @@
             minGap: 120,
             minSpeed: 0,
             collisionBoxes: [
-                new CollisionBox(0, 5, 52, 32),
+                new CollisionBox(0, 5, 48, 32),
             ],
             speedOffset: 0.8
         },
