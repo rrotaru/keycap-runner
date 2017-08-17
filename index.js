@@ -170,7 +170,7 @@
             KEYCAP: { x: 95, y: 16 },
             RESTART: { x: 2, y: 2 },
             TEXT_SPRITE: { x: 655, y: 2 },
-            TREX: { x: 848, y: 2 },
+            TREX: { x: 132, y: 3 },
             STAR: { x: 645, y: 2 }
         },
         HDPI: {
